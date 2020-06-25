@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "titulo": "Meu primeiro post",
+      "mensagem": "Olá, seja bem vindo ao meu blog!"
+    },
+    {
+      "id": 2,
+      "titulo": "Meu segundo post",
+      "mensagem": "Olá, seja bem vindo ao meu blog!"
+    },
+    {
+      "id": 3,
+      "titulo": "Meu terceiro post",
+      "mensagem": "Olá, seja bem vindo ao meu blog!"
+    },
+    {
+      "id": 4,
+      "titulo": "Meu quarto post",
+      "mensagem": "Olá Mundo!"
+    }
+  ]
+}
